@@ -42,7 +42,7 @@ Our project automates license plate recognition from DNS footage, storing data s
 ```
 ### Client
 ```bash
-  cd Client
+  cd client
   npm install
   npm run start
 ```
