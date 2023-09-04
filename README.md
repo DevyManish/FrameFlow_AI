@@ -57,7 +57,7 @@ Our project automates license plate recognition from DNS footage, storing data s
 
 ![Image2](https://i.postimg.cc/HnD8Ys2r/website.png)
 
-![[Video Title](https://www.youtube.com/watch?v=W-pkQ7se4DI)]
+- YouTube: https://www.youtube.com/watch?v=W-pkQ7se4DI
 
 
 
